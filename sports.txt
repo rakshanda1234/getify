@@ -10,3 +10,5 @@ Archery
 Badminton
 
 
+Shooting
+Golf
